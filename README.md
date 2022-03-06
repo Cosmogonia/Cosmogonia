@@ -1,16 +1,16 @@
-### Hi there 👋
+ ## Olá!Me chame De S A N 👈(ﾟヮﾟ👈)
+🌱 Etou Estudando DEV por conta propia        d=====(￣▽￣*)b
+<div style="display: inline_block"><br>
+  <img align="center" alt="San-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="san-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-<!--
-**Cosmogonia/Cosmogonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+ 
+<div align="center">
+  <a href="https://github.com/cosmogonia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmogonia&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmogonia&layout=compact&langs_count=7&theme=aura"/>
+</div>
+  
+    
